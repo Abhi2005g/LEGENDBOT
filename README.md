@@ -63,7 +63,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/the_6_hookage/LEGENDUSERBOT.git`
+`git clone https://github.com/ItzzAnkit/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
